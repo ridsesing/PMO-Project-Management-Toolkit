@@ -1,22 +1,60 @@
 # PMO-Project-Management-Toolkit
-project-management-toolkit/
-│
-├── README.md
-├── Project Charter
-│   └── Project_Charter.md
-├── Project Plan
-│   └── WBS_and_Timeline.md
-├── Risk Register
-│   └── Risk_Register.xlsx
-├── Stakeholder Management
-│   └── Stakeholder_Register.xlsx
-├── Agile Artifacts
-│   ├── Product_Backlog.md
-│   ├── Sprint_Plan.md
-│   └── Sprint_Retrospective.md
-├── Status Reports
-│   └── Weekly_Status_Report.md
-├── KPI Dashboard
-│   └── PM_KPIs.md
-└── Meeting Minutes
-    └── MOM_Template.md
+# Enterprise SIEM Deployment Project
+
+## Overview
+
+This project demonstrates end-to-end project management practices used for an enterprise SIEM deployment.
+
+The project covers:
+
+- Project Initiation
+- Planning
+- Stakeholder Management
+- Risk Management
+- Agile Delivery
+- Status Reporting
+- KPI Tracking
+- Project Closure
+
+## My Role
+
+Project Manager
+
+### Responsibilities
+
+- Requirement Gathering
+- Stakeholder Coordination
+- Resource Planning
+- Schedule Management
+- Risk Management
+- Vendor Management
+- Executive Reporting
+- Go-Live Coordination
+
+## Project Duration
+
+Jan 2026 – Jun 2026
+
+## Methodology
+
+- Agile
+- Scrum
+- Waterfall Governance
+
+## Tools Used
+
+- JIRA
+- Confluence
+- MS Project
+- Excel
+- Power BI
+- ServiceNow
+
+## Key Achievements
+
+- Delivered project within approved budget
+- Reduced security event onboarding time by 40%
+- Improved visibility through KPI dashboards
+- Successfully coordinated multiple teams
+
+
