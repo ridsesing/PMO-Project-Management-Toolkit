@@ -15,7 +15,7 @@ The project was executed across multiple infrastructure, security, network, and 
 - **Duration:** 6 Months
 - **Methodology:** Hybrid (Agile + Waterfall Governance)
 - **Domain:** Cybersecurity / Security Operations
-- **Project Size:** 100+ Log Sources
+- **Project Size:** ALL OVER India Log Sources
 - **Teams Involved:** Security, Infrastructure, Network, Application Support, Vendors
 
 ---
