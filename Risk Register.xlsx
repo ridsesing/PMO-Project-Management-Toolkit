@@ -1,0 +1,9 @@
+# Risk Register
+
+| ID | Risk | Impact | Probability | Mitigation |
+|----|------|---------|-------------|------------|
+| R1 | Delay in server provisioning | High | Medium | Escalate early |
+| R2 | Resource unavailability | Medium | Medium | Backup resource |
+| R3 | Network dependency | High | High | Weekly review |
+| R4 | Scope changes | High | Medium | Change control |
+| R5 | Security approval delay | Medium | Medium | Early engagement |
