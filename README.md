@@ -234,3 +234,41 @@ As the Project Manager, I was responsible for:
 ---
 
 ## Repository Structure
+Enterprise-SIEM-Deployment/
+
+├── README.md ├── Project_Charter.md ├── Project_Plan.md ├── Risk_Register.md ├── RAID_Log.md ├── Stakeholder_Register.md ├── Weekly_Status_Report.md ├── KPI_Dashboard.md ├── UAT_Report.md ├── Deployment_Plan.md └── Closure_Report.md
+
+---
+
+## Lessons Learned 
+- Early stakeholder engagement significantly reduces delivery blockers.
+- Governance reviews help identify risks before they impact timelines.
+- Detailed planning improves deployment success rates.
+- Clear communication channels accelerate issue resolution.
+- Regular KPI reviews improve project visibility and decision-making.
+
+---
+
+## Skills Demonstrated 
+- Project Management
+- PMO Governance
+- Agile & Scrum
+- Stakeholder Management
+- Risk Management
+- Resource Planning
+- Vendor Management
+- Executive Reporting
+- Cybersecurity Project Delivery
+- SIEM Implementation
+- Cross-Functional Team Coordination
+
+---
+
+## Contact 
+**Ridhima Singh** Project Manager | Cybersecurity & Technology Projects 
+-LinkedIn: *(Add Your LinkedIn URL)* 
+-GitHub: *(Add Your GitHub Profile URL)* 
+
+---
+
+### Disclaimer This repository is created for portfolio and demonstration purposes. Any confidential organizational information has been removed or anonymized.
